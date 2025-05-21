@@ -1,12 +1,12 @@
 import streamlit as st
 
 st.set_page_config(page_title="Dein QR-Musikplayer", layout="centered")
-st.title("Deine Musik startet gleich automatisch")
+st.title("Ali songs")
 
 # DEINE GitHub-Links:
 song_urls = [
-    "https://raw.githubusercontent.com/dein-benutzername/Ali/main/songs/song1.mp3",
-    "https://raw.githubusercontent.com/dein-benutzername/Ali/main/songs/song2.mp3"
+    "https://raw.githubusercontent.com/sdh2025/Ali/main/songs/song1.mp3",
+    "https://raw.githubusercontent.com/sdh2025/Ali/main/songs/song2.mp3"
 ]
 
 # HTML mit Autoplay und Playlist

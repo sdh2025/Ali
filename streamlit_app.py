@@ -5,8 +5,8 @@ st.title("Ali songs")
 
 # DEINE GitHub-Links:
 song_urls = [
-    "https://raw.githubusercontent.com/sdh2025/Ali/main/songs/song1.mp3",
-    "https://raw.githubusercontent.com/sdh2025/Ali/main/songs/song2.mp3"
+    "https://github.com/sdh2025/Ali/songs/song1.mp3",
+    "https://github.com/sdh2025/Ali/songs/song2.mp3"
 ]
 
 # HTML mit Autoplay und Playlist

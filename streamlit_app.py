@@ -5,8 +5,8 @@ st.title("Deine Musik startet gleich automatisch")
 
 # DEINE GitHub-Links:
 song_urls = [
-    "https://raw.githubusercontent.com/dein-benutzername/qr-music-player/main/songs/song1.mp3",
-    "https://raw.githubusercontent.com/dein-benutzername/qr-music-player/main/songs/song2.mp3"
+    "https://raw.githubusercontent.com/dein-benutzername/Ali/main/songs/song1.mp3",
+    "https://raw.githubusercontent.com/dein-benutzername/Ali/main/songs/song2.mp3"
 ]
 
 # HTML mit Autoplay und Playlist
